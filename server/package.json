@@ -10,7 +10,7 @@
     "build": "cd client && npm install && npm run build"
   },
   "engines": {
-    "node": "v14.17.3"
+    "node": "v16.15.1"
   },
   "keywords": [],
   "author": "",
