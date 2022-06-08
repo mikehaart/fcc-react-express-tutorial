@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "start": "node server/index.js",
+    "start": "cd server && npm install && npm start",
     "build": "cd client && npm install && npm run build"
   },
   "buildpacks": [
