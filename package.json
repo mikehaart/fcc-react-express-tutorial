@@ -1,7 +1,11 @@
 {
-    "buildpacks": [
-      {
-        "url": "heroku/nodejs"
-      }
-    ]
-  }  
+  "scripts": {
+    "start": "cd server && npm install && npm start",
+    "build": "cd client && npm install && npm run build"
+  },
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    }
+  ]
+}  
