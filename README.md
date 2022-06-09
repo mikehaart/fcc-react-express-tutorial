@@ -4,7 +4,7 @@ Deployed on heroku https://fcc-react-express-tutorial.herokuapp.com/
 Based from the tutorial [FCC Link](https://www.freecodecamp.org/news/how-to-create-a-react-app-with-a-node-backend-the-complete-guide/)
 
 ### What's all this?
-An example of a react front end making a GET request to an express backend.
+An example of a react front end making a GET request to an express backend. The page makes an api request when the page loads, and the text on screen should read 'Hello from server!'.
 
 #### Server-side
 Server folder contains the Express server.
