@@ -1,6 +1,11 @@
-Super simple API tutorial using React and Express [FCC Link](https://www.freecodecamp.org/news/how-to-create-a-react-app-with-a-node-backend-the-complete-guide/)
+# React & Express API example
 
-### What's going on?
+Deployed on heroku https://fcc-react-express-tutorial.herokuapp.com/
+Based from the tutorial [FCC Link](https://www.freecodecamp.org/news/how-to-create-a-react-app-with-a-node-backend-the-complete-guide/)
+
+### What's all this?
+An example of a react front end making a GET request to an express backend.
+
 #### Server-side
 Server folder contains the Express server.
 
